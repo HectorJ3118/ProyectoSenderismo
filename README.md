@@ -34,7 +34,7 @@ En el CMD
 ## Contribución
 1-Crea un fork del repositorio
 
-2-Clona mediante git clone:
+2-Clona mediante git clone: https://github.com/HectorJ3118/ProyectoSenderismo.git
 
 3-Crea nueva rama 
 
