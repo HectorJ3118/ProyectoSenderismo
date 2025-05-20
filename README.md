@@ -1,6 +1,6 @@
 # OPTITRAIL
 El proyecto es una aplicación desarrollada en python que permite **calcular la mejor ruta de senderismo**, basandose en ciertos aspectos como el desnivel, la distancia y el tiempo que te llevaria recorrer cada camino,  haciendo que cada ruta que recorras sea una ruta superada.
-
+![Image](https://github.com/user-attachments/assets/d5b8b652-1128-4d45-949c-51e112396844)
 ## Caracteristicas
 
 - Lectura de archivos Excel con nodos (puntos de interés) y tramos entre ellos.
@@ -16,7 +16,7 @@ El proyecto es una aplicación desarrollada en python que permite **calcular la 
   - `matplotlib`
   - `pandas`
   - (opcional) `tkinter` para futura interfaz gráfica
-  
+  ![Image](https://github.com/user-attachments/assets/10c5bde8-866c-4b14-a931-c3cb82fd762d)
 ## Recomendaciones para una correcta ejecución
 
 **1-Asegurarse que se encuentre el archivo 
