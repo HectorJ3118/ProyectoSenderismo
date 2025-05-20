@@ -25,6 +25,25 @@ ProyectoSnederismo/src/data.**
 
 2-Al momento de ejecutarse, estar seguro que se este dentro del directorio **ProyectoSenderismo**
 
-3-Ejecutar python```python
- main.py
-``` en el cdmd
+3-Ejecutar python
+```
+python main.py
+```
+En el CMD
+##
+## Contribución
+1-Crea un fork del repositorio
+
+2-Clona mediante git clone:
+
+3-Crea nueva rama 
+
+4-Realiza tus cambios
+
+5-Manda Pull Request
+
+## Licencia
+
+```
+MIT
+```
