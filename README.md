@@ -17,12 +17,14 @@ El proyecto es una aplicación desarrollada en python que permite **calcular la 
   - `pandas`
   - (opcional) `tkinter` para futura interfaz gráfica
   
-##Recomendaciones para una correcta ejecución
+## Recomendaciones para una correcta ejecución
+
 **1-Asegurarse que se encuentre el archivo 
-    main.py, ubicado en ProyectoSenderismo/src y el directorio 
-    ProyectoSnederismo/src/data.**
+main.py, ubicado en ProyectoSenderismo/src y el directorio 
+ProyectoSnederismo/src/data.**
+
 2-Al momento de ejecutarse, estar seguro que se este dentro del directorio **ProyectoSenderismo**
+
 3-Ejecutar python```python
  main.py
-``` en el cdm
-4-Probar las distintas funciones.
+``` en el cdmd
